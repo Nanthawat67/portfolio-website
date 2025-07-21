@@ -45,7 +45,7 @@ https://nanthawat67.github.io/portfolio-website/
 
 ### วิธีใช้งาน
 
-เปิดไฟล์ `index.html` ในเว็บเบราว์เซอร์ หรือดูได้ที่ [https://username.github.io/portfolio-website](https://username.github.io/portfolio-website)
+เปิดไฟล์ `index.html` ในเว็บเบราว์เซอร์ หรือดูได้ที่ [https://nanthawat67.github.io/portfolio-website/](https://nanthawat67.github.io/portfolio-website/)
 
 ### เทคโนโลยีที่ใช้
 
